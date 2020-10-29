@@ -32,3 +32,7 @@ Here are some ideas to get you started:
 
 
 [![Github](https://img.shields.io/github/followers/singhtaran1005?label=Follow&style=social)](https://github.com/singhtaran1005)
+
+
+
+<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
