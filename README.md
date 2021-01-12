@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
+
+
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=singhcodes.singhcodes)
