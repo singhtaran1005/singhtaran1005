@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at DSCKIIT and STUDGENIE
+- 🔭 I’m currently working at DSCKIIT 
 - 🌱 I’m currently learning spring boot and AWS
 - 👯 I’m looking to collaborate on projects with ML integration with flutter and backend projects
 - 🤔 I’m looking for help with retrofit and room
