@@ -6,7 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at DSCKIIT and Codejudge(Problem Setter intern) 
+- 🔭 I’m currently working at DSCKIIT .
+-  I was an intern at Codejudge(Problem Setter intern) for a couple of months.
 - 🌱 I’m currently learning React and AWS
 - 👯 I’m looking to collaborate on projects with ML integration with flutter and backend projects
 - 💬 Ask me about flutter / kotlin / firebase / Spring Boot
