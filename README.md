@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at DSCKIIT .
+- 🔭 I’m currently working at SigScalr.io(Junior Software Engineer).
 -  I was an intern at Codejudge(Problem Setter intern) in past for a couple of months.
 - 🌱 I’m currently learning React and Golang.
 - 💬 Ask me about flutter / Spring Boot
