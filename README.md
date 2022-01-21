@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at SigScalr.io(Junior Software Engineer).
--  I was an intern at Codejudge(Problem Setter intern) in past for a couple of months.
+-  I was an intern at Codejudge(Problem Setter intern) and SigScalr.io(as a Junior Software Engineer).
 - 🌱 I’m currently learning React and Golang.
 - 💬 Ask me about flutter / Spring Boot
 - 📫 How to reach me: [Twitter - @taran17809555](https://twitter.com/taran17809555) , [Instagram - @taran_3010](https://www.instagram.com/taran_3010/)
