@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 -  I previously intern at Codejudge(Problem Setter intern) and SigScalr.io(as a Junior Software Engineer).
-- 🌱 I’m currently learning React.
+- 🌱 Currently intern at Cadence Design Systems.
 - 💬 Ask me about C++ / Spring Boot / Golang
 - 📫 How to reach me: [Twitter - @taran17809555](https://twitter.com/taran17809555) , [Instagram - @taran_3010](https://www.instagram.com/taran_3010/)
 - 😄 Pronouns: He/His
